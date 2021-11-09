@@ -1,0 +1,2 @@
+link for pusher
+https://pusher.com/tutorials/live-comments-laravel/
